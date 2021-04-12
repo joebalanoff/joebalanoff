@@ -1,7 +1,7 @@
 <h1>About me</h1>
 <p>My name is Joe and I am a game designer who is currently looking for work. I have exprience in both 2D and 3D workflows in Unity and custom game engines.</p>
 <p>Some projects I have (or am currently working on):</p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joebalanoff&repo=GameJame181"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joebalanoff&repo=GameJam181"/>
  
  <h1>GitHub Stats</h1>
 <div align="center">
