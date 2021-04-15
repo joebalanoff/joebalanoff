@@ -2,7 +2,7 @@
 <p>My name is Joe and I am a game designer who is currently looking for work. I have exprience in both 2D and 3D workflows in Unity and custom game engines.</p>
 <p>Some projects I have (or am currently working on):</p>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=joebalanoff&repo=GameJam181&theme=tokyonight#18"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joebalanoff&repo=DiscordRoulette&theme=tokyonight#18"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joebalanoff&repo=DiscordRoulete&theme=tokyonight#18"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=joebalanoff&repo=OpenGL-Engine-Java&theme=tokyonight#18"/>
  
  <h1>GitHub Stats</h1>
