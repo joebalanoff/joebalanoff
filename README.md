@@ -3,6 +3,7 @@
 <p>Some projects I have (or am currently working on):</p>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=joebalanoff&repo=GameJam181&theme=tokyonight#18"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=joebalanoff&repo=DiscordRoulette&theme=tokyonight#18"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joebalanoff&repo=OpenGL-Engine-Java&theme=tokyonight#18"/>
  
  <h1>GitHub Stats</h1>
 <div align="center">
