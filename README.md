@@ -12,6 +12,5 @@
 </div>
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=joebalanoff&theme=tokyonight#18" /><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joebalanoff&theme=theme=tokyonight#18"/>
  
 <p align="center">Activity summary by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>.</p>
