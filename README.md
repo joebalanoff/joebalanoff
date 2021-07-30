@@ -10,6 +10,6 @@
 <p>You can contact me on Discord at @Joe.#5555 (preferred) or at my email, joebalanoff@gmail.com. I will respond within the day (if not I'm probably out of cell reception, pretty spotty around where I live). I do take commissions but for Discord bots please join our (Nomad Apps) <a href="https://discord.gg/6Ysz3cK43U">Discord server</a>.</p> 
 
 <h1>Programming Experience</h1>
-<p>I am completely self taught in various languages. Some of the languages; Java, Javascript, Node.js, C#, Python 2 & 3, Lua, and Kotlin.</p>
+<p>I am completely self taught in various languages; Java, Javascript, Node.js, C#, Python 2 & 3, Lua, and Kotlin.</p>
 <p>I primarily use Node.js since it's what we (Nomad Apps) use for making Discord bots.<p>
 <p>My secondary language is C#. This is the language that I make all of my games in. I work mostly in Unity, but I have also made some custom engines in Java and C++.</p>
