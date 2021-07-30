@@ -1,6 +1,6 @@
 <h1>About me</h1>
 <p>Hello! My name is Joe and I am an amateur game developer and Discord bot developer and I live in the US. You can check out some of my projects below:</p>
-<h2>Some projects I have (or am currently) working on:</h2>
+<h2>Some projects I have (or am working on):</h2>
 <ul>
 <li><a href="https://github.com/NomadApplications/QuingeeBot">Quingee Bot</a>: Custom Discord bot made for knvoa. Built in currency, shop, seasons, etc.. Check the repo for more info.</li>
 <li><a href="https://github.com/NomadApplications/Nomad-SlashCommands">Nomad-Slashcommands</a>: Custom NPM package to easily create Slash Commands. </li>
