@@ -1,6 +1,5 @@
-## About Me:
-
-Hello! My name is Joe and I am an amateur game developer and Discord bot developer and I live in the US. You can check out some of my projects below:
+# Hi there 👋
+Hello! My name is Joe and I'm a game developer and Discord bot developer and I live in the US. Besides development some of my hobbies include hiking, mountain biking, playing piano, and driving cars 😎! You can check out some of my stuff below!
 
 ## Projects:
 
@@ -14,4 +13,4 @@ You can contact me on Discord at @Joe.#5555 (preferred) or at my email, joebalan
 
 ## Programming Experience:
 
-I am completely self taught in various languages; Java, Javascript, Node.js, C#, Python 2 & 3, and (might be controversial) HTML & CSS. I primarily use Node.js since it's what I use to make Discord bots. My secondary language is C#. This is the language that I make all of my games in. I work mostly in Unity, but I have also made some custom engines in Java and C++.
+I am completely self taught in various languages! I primarily use Node.js since it's what I use to make Discord bots. My secondary language is C#. This is the language that I make all of my games in. I work mostly in Unity, but I have also made some custom engines in Java and C++.
