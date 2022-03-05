@@ -14,3 +14,12 @@ You can contact me on Discord at @Joe.#5555 (preferred) or at my email, joebalan
 ## Programming Experience:
 
 I am completely self taught in various languages! I primarily use Node.js since it's what I use to make Discord bots. My secondary language is C#. This is the language that I make all of my games in. I work mostly in Unity, but I have also made some custom engines in Java and C++.
+
+
+# STATS
+
+[![Joe's github stats](https://github-readme-stats.vercel.app/api?username=joebalanoff&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joebalanoff&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Joe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joebalanoff&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
