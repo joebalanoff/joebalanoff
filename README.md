@@ -4,7 +4,7 @@ Hello! My name is Joe and I'm a game developer and Discord bot developer and I l
 ## Projects:
 
 - [Quingee Bot](https://github.com/NomadApplications/QuingeeBot): Custom Discord bot made for knvoa. Built in currency, shop, seasons, etc.. Check the repo for more info.
-- [EasyDiscord](https://github.com/NomadApplications/EasyDiscord): NPM package for beginners to make Discord bots in v13.
+- [Medium Article](https://medium.com/@joebalanoff/how-to-make-a-website-with-login-from-scratch-in-nodejs-and-mongoose-advanced-a99291be6517): How to make a website with login from scratch in NodeJS and Mongoose (Advanced)
 - [Uno in Discord](https://github.com/NomadApplications/uno-in-discord): Replication of the popular game Uno in Discord v13 with buttons and slash commands with DB leaderboard.
 
 ## Contact Me:
