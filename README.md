@@ -5,7 +5,6 @@ Hello! My name is Joe and I'm a game developer and Discord bot developer and I l
 
 - [Quingee Bot](https://github.com/NomadApplications/QuingeeBot): Custom Discord bot made for knvoa. Built in currency, shop, seasons, etc.. Check the repo for more info.
 - [Medium Article](https://medium.com/@joebalanoff/how-to-make-a-website-with-login-from-scratch-in-nodejs-and-mongoose-advanced-a99291be6517): How to make a website with login from scratch in NodeJS and Mongoose (Advanced)
-- [Kate's Quotes](http://www.katesquotes.com/): Supplies daily quotes from an API and sends out daily emails and reminders!
 
 ## Contact Me:
 
