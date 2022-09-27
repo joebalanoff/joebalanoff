@@ -9,13 +9,4 @@ Hello! My name is Joe and I'm a game developer and Discord bot developer and I l
 
 ## Contact Me:
 
-You can contact me on Discord at @Joe.#5555 (preferred) or at my email, joebalanoff@gmail.com. I will respond within the day (if not I'm probably out of cell reception, pretty spotty around where I live)!
-
-## Programming Experience:
-
-I am completely self taught in various languages! I primarily use NodeJS since it's what I use to make Discord bots. My secondary language is C#. This is the language that I make all of my games in. I work mostly in Unity, but I have also made some custom engines in Java and C++.
-
-
-# STATS
-
-[![Joe's github stats](https://github-readme-stats.vercel.app/api?username=joebalanoff&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+You can contact me on Discord at @Joe.#5555 (preferred) or at my email, joebalanoff@gmail.com.
