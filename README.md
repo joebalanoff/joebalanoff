@@ -1,5 +1,5 @@
 # Hi there 👋
-Hello! My name is Joe and I'm a game developer and Discord bot developer and I live in the US. Besides development some of my hobbies include hiking, mountain biking, playing piano, and driving cars 😎! You can check out some of my stuff below!
+Hello! My name is Joe and I'm a game developer and Discord bot developer! Besides development some of my hobbies include hiking, mountain biking, playing piano, and driving cars 😎! You can check out some of my stuff below!
 
 ## Projects:
 
